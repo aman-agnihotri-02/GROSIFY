@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name":" Tomato",
+        "price": 200,
+        "image": "image/1.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 2,
+        "name":" Turnip",
+        "price": 250,
+        "image": "image/2.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 3,
+        "name":" Corn",
+        "price": 290,
+        "image": "image/3.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 4,
+        "name":" Pomegranate",
+        "price": 200,
+        "image": "image/4.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 5,
+        "name":" Potato",
+        "price": 300,
+        "image": "image/5.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 6,
+        "name":" Raddish",
+        "price": 200,
+        "image": "image/6.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 7,
+        "name":" Soy",
+        "price": 200,
+        "image": "image/7.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    },
+    {
+        "id": 8,
+        "name":" Spinach",
+        "price": 200,
+        "image": "image/8.png",
+        "expiry":"EXPIRY: 7 days",
+        "inventory":"INVENTORY: 10 Kg left"
+    }
+
+]
